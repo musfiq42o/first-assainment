@@ -1,0 +1,103 @@
+/* header code starts from here! */
+
+.header-section{
+    display: flex;
+    width: 1000px;
+    
+   
+}
+.text{
+    margin: 200px;
+    font-size: 20px;
+}
+.image{
+    margin: 200px;
+}
+button{
+    background-color: rgb(75, 75, 13);
+    padding: 10px;
+    margin: 20px;
+    width: 90px;
+    color: white;
+
+}
+
+/* header code ends here! */
+
+
+/* first section code starts here! */
+
+.first-section{
+    display: flex;
+}
+.sec-text{
+    margin: 200px;
+    font-size: 30px;
+    
+}
+.sec-img{
+    margin: 200px;
+}
+
+/* first section code ends here! */
+
+
+
+/* second section code starts here! */
+
+.sec-section{
+    display: flex;
+   margin: auto;
+   width: 700px;
+   justify-content: space-between;
+
+}
+.third-text{
+    text-align: center;
+    margin: 50px;
+    font-size: 30px;
+}
+i{
+    font-size: 30px;
+    align-items: center;
+}
+
+/* second section code ends here! */
+
+
+
+/* third section code starts here! */
+
+footer{
+    width: 100%px;
+    padding: 100px;
+}
+
+
+.parent-div{
+    width: 900px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding: 50px;
+}
+.future-div{
+    margin-left: 30px;
+   
+}
+ .subscribe-div button{
+   width: 140px;
+    background-color: rgb(25, 81, 27);
+    font-size: 20px;
+    padding: 20px;
+   align-items: center;
+
+ }
+  .textholder{
+padding: 10px;
+font-size: 15px;
+ }
+
+ /* third section code ends here! */
